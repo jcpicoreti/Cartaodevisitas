@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Cartao de visitas</string>
+    <string name="logo_da_empresa">Logo da empresa</string>
+    <string name="julio_cezar_picoreti">Julio Cezar Picoreti</string>
+    <string name="_5527997871793">+5527997871793</string>
+    <string name="juliopicoreti_gmail_com">juliopicoreti@gmail.com</string>
+    <string name="rua_dos_tucanos_3">Rua dos Tucanos, 3</string>
+    <string name="eurico_salles">Eurico Salles</string>
 </resources>
